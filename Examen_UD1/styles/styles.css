@@ -1,0 +1,30 @@
+.hide {
+    display: none;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+}
+section {
+    border-radius: 22px;
+    border: 2px;
+    border-color: aquamarine;
+    background-color: grey;
+    margin-right: 75px;
+    margin: 320px;
+    margin-left: 750px;
+    width: 450px;
+    border-style: dashed;
+    border-spacing: 100px;
+}
+
+button {
+    margin-left: 920px;
+    
+}
+
+h1 {
+    margin-left: 760px;
+}
